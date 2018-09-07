@@ -1,0 +1,10 @@
+.index{
+    font-size: 16px;
+    font-style: italic;
+    color: white;
+    display: block;
+    padding: .5rem 1rem;
+}
+.navback{
+    background-color: rgba(0, 0, 255, 0.733);
+}
